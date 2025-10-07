@@ -7,7 +7,7 @@ Uma VM(máquina virtual) rodando Kali Linux foi utilizada para conseguir control
 > Os passos podem ser acompanhados pelos prints contidos na pasta "images"
 ### Utilizando o cmd do Kali Linux:
 
-1. Encontrar portas de acesso abertas na máquina alvo.
-`nmap -sV -p 21-40 192.168.56.102`
+- Encontrar portas de acesso abertas na máquina alvo. \
+`nmap -sV -p 21-40 192.168.56.102`\
 Esse comando escaneia todas as portas do numéro 21 a 40 do endereço ip 192.168.56.102 e informa se estão abertas ou fechadas.
 
